@@ -1,0 +1,3 @@
+﻿  lab_6.4it.cpp
+C:\Users\Admin Computer\source\repos\lab_6.4it\lab_6.4it.cpp(81,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  lab_6.4it.vcxproj -> C:\Users\Admin Computer\source\repos\lab_6.4it\x64\Debug\lab_6.4it.exe
